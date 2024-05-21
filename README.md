@@ -1,5 +1,7 @@
 # Cronômetro de Tarefas
 
+Projeto desenvolvido no curso (React: escrevendo com typescript) da Alura com o prof° - Luiz Fernando Ribeiro.
+
 Este é um projeto de cronômetro de tarefas desenvolvido em React. Ele permite adicionar tarefas com tempos definidos, iniciar um cronômetro para cada tarefa e marcar as tarefas como concluídas.
 
 ## Descrição
@@ -42,5 +44,7 @@ Após iniciar o servidor de desenvolvimento, você pode acessar o aplicativo no 
 2. Clique no botão "Começar!" para iniciar o cronômetro.
 3. O cronômetro contará regressivamente o tempo da tarefa.
 4. Quando o tempo acabar, a tarefa será marcada como concluída.
+
+
 
 
